@@ -7,10 +7,10 @@ Do you fancy your chances?
 1. Grab the [latest release](https://github.com/NeonWizard/SCP-RussianRoulette/releases/latest) of RussianRoulette.
 2. Place RussianRoulette.dll in your server's `sm_plugins` folder.
 
-## Commands
+## GameConsole Commands
 Command | Value Type | Description
 :---: | :---: | ---
-ROULETTE | Int | Do ye fancy yer chances?
+.ROULETTE | Int | Do ye fancy yer chances?
 
 ## Configuration
 Config Option | Value Type | Default Value | Description
