@@ -10,7 +10,7 @@ namespace RussianRoulette
 		name = "RussianRoulette",
 		description = "",
 		id = "xyz.wizardlywonders.RussianRoulette",
-		version = "1.0.0",
+		version = "1.0.1",
 		SmodMajor = 3,
 		SmodMinor = 2,
 		SmodRevision = 2
