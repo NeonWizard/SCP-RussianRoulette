@@ -7,7 +7,7 @@ namespace RussianRoulette
 {
 	[PluginDetails(
 		author = "Spooky",
-		name = "SCPSwap",
+		name = "RussianRoulette",
 		description = "",
 		id = "xyz.wizardlywonders.RussianRoulette",
 		version = "1.0.0",
